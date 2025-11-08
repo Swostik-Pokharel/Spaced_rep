@@ -174,3 +174,18 @@ The system calculates the optimal next question based on all tracked data:
 3. **Session continues** until the current concept is exhausted, then transitions to adjacent concepts
 
 This creates a dynamic learning path that adapts to your current level of understanding.
+
+@qa[difficulty=easy]
+Q: What is a variable?
+A: A variable is a named storage location in memory.
+@end
+
+@qa[difficulty=medium]
+Q: What is recursion?
+A: Recursion is when a function calls itself to solve smaller instances of the same problem.
+@end
+
+@qa[difficulty=hard]
+Q: Explain time complexity?
+A: Time complexity measures how runtime grows as input size increases, expressed in Big O notation.
+@end
